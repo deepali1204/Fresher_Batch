@@ -1,0 +1,38 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+
+.zero{
+    max-width: 420px;
+    margin: auto;
+    margin-top:2%;
+    background-color: #444547;
+    opacity: 0.8;
+    padding: 20px 50px;
+    box-sizing: border-box;  
+    border-radius: 15px 15px 15px 15px;
+  }
+
+  .one{
+      padding:8px;
+  }
+
+  .button{
+      padding-top:5px;
+  }
+
+  .table{
+    background-color: #444547;
+    opacity: 0.8;
+    border: 2px solid  #00B4CC;
+    margin-top:50px;
+    
+  }
+  th {
+      color:whitesmoke;
+  }
+  td {
+    color:whitesmoke;
+}

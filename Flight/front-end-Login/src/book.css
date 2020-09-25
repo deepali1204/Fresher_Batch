@@ -1,0 +1,40 @@
+.form-style{
+   background-color: rgb(53, 51, 51);
+   height:800px;
+   width :600px;
+   margin:0 auto;
+   padding:20px;
+   opacity: 0.7;
+   
+}
+
+h3{
+   border-bottom: 2px solid #3399ff;
+   width:220px;
+   padding:5px;
+}
+
+.group{
+  flex-direction:row;
+   display:inline-block;
+   width:270px;
+   margin:5px;
+
+}
+
+.linecontrol{
+   width:250px;
+   
+}
+
+.form-group{
+   padding:2px;
+}
+
+.control{
+   width:530px;
+}
+
+.two{
+   padding-top:30px;
+}

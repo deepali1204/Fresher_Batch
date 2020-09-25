@@ -1,0 +1,49 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+
+.navbars{
+    background-color:  #00B4CC;
+    opacity: 0.8;
+    overflow:hidden;
+    width:40%;
+    height:85%;
+    align-items: center;
+    margin-left: 30%;
+    margin-top:5%;
+   
+}
+
+
+ul{
+    list-style: none;
+    display:flex;
+    align-items: center;
+    padding-top: 2px;
+    justify-content: space-around;
+     
+   
+}
+
+ 
+
+
+
+.link{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    font-size:15px;
+    
+    }
+
+
+    #nav1{
+        background-color: rgb(56, 58, 59);
+        opacity: 0.8;
+        filter:(opacity=50);
+    }
+
+
+
